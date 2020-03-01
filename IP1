@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1,VIP US: FOX Tampa
+http://client-proiptv.com:8080/aurelien/aurelien/21987
+
+#EXTINF:-1,VIP US: ABC Tampa
+http://client-proiptv.com:8080/aurelien/aurelien/22110
+
+#EXTINF:-1,VIP US: CBS Tampa
+http://client-proiptv.com:8080/aurelien/aurelien/22076
+
 #EXTINF:-1,CAN: TSN Sport 1
 http://client-proiptv.com:8080/aurelien/aurelien/3046
 
@@ -16,6 +25,9 @@ http://client-proiptv.com:8080/aurelien/aurelien/3050
 
 #EXTINF:-1,CAN: History HD
 http://client-proiptv.com:8080/aurelien/aurelien/2906
+
+#EXTINF:-1,VIP US: Fox Sports Sun HD
+http://client-proiptv.com:8080/aurelien/aurelien/25862
 
 #EXTINF:-1,US: Sportsnet World HD
 http://client-proiptv.com:8080/aurelien/aurelien/4279
