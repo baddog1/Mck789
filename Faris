@@ -1,327 +1,38 @@
 #EXTM3U
 
-#EXTINF:-1,===== VIP USA ======
-http://client-proiptv.com:8080/faris/faris/7711
-#EXTINF:-1,VIP US: ABC Atlanta
-http://client-proiptv.com:8080/faris/faris/22143
-#EXTINF:-1,VIP US: ABC Baltimore
-http://client-proiptv.com:8080/faris/faris/22142
-#EXTINF:-1,VIP US: ABC Boston
-http://client-proiptv.com:8080/faris/faris/22141
-#EXTINF:-1,VIP US: ABC Charlotte
-http://client-proiptv.com:8080/faris/faris/22140
-#EXTINF:-1,VIP US: ABC Chicago
-http://client-proiptv.com:8080/faris/faris/22139
-#EXTINF:-1,VIP US: ABC Cleveland
-http://client-proiptv.com:8080/faris/faris/22138
-#EXTINF:-1,VIP US: ABC Connecticut
-http://client-proiptv.com:8080/faris/faris/22137
-#EXTINF:-1,VIP US: ABC Dallas
-http://client-proiptv.com:8080/faris/faris/22136
-#EXTINF:-1,VIP US: ABC Denver
-http://client-proiptv.com:8080/faris/faris/22135
+
 #EXTINF:-1,VIP US: ABC Detroit
 http://client-proiptv.com:8080/faris/faris/22134
-#EXTINF:-1,VIP US: ABC Durham
-http://client-proiptv.com:8080/faris/faris/22133
-#EXTINF:-1,VIP US: ABC Fresno
-http://client-proiptv.com:8080/faris/faris/22132
-#EXTINF:-1,VIP US: ABC houston
-http://client-proiptv.com:8080/faris/faris/22131
-#EXTINF:-1,VIP US: ABC Indianapolis
-http://client-proiptv.com:8080/faris/faris/22130
-#EXTINF:-1,VIP US: ABC Kansas City
-http://client-proiptv.com:8080/faris/faris/22129
-#EXTINF:-1,VIP US: ABC Los Angeles
-http://client-proiptv.com:8080/faris/faris/22128
 #EXTINF:-1,VIP US: ABC Miami
 http://client-proiptv.com:8080/faris/faris/22127
-#EXTINF:-1,VIP US: ABC Milwaukee
-http://client-proiptv.com:8080/faris/faris/22126
-#EXTINF:-1,VIP US: ABC Nashville
-http://client-proiptv.com:8080/faris/faris/22125
-#EXTINF:-1,VIP US: ABC New York
-http://client-proiptv.com:8080/faris/faris/22124
 #EXTINF:-1,VIP US: ABC Orlando
 http://client-proiptv.com:8080/faris/faris/22123
-#EXTINF:-1,VIP US: ABC Philadelphia
-http://client-proiptv.com:8080/faris/faris/22122
-#EXTINF:-1,VIP US: ABC Phoenix
-http://client-proiptv.com:8080/faris/faris/22121
-#EXTINF:-1,VIP US: ABC Pittsburgh
-http://client-proiptv.com:8080/faris/faris/22120
-#EXTINF:-1,VIP US: ABC Portland
-http://client-proiptv.com:8080/faris/faris/22119
-#EXTINF:-1,VIP US: ABC Sacramento
-http://client-proiptv.com:8080/faris/faris/22118
-#EXTINF:-1,VIP US: ABC Saint Paul
-http://client-proiptv.com:8080/faris/faris/22117
-#EXTINF:-1,VIP US: ABC Salt lake city
-http://client-proiptv.com:8080/faris/faris/22116
-#EXTINF:-1,VIP US: ABC San Antonio
-http://client-proiptv.com:8080/faris/faris/22115
-#EXTINF:-1,VIP US: ABC San Diego
-http://client-proiptv.com:8080/faris/faris/22114
-#EXTINF:-1,VIP US: ABC San Francisco
-http://client-proiptv.com:8080/faris/faris/22113
-#EXTINF:-1,VIP US: ABC Seattle
-http://client-proiptv.com:8080/faris/faris/22112
-#EXTINF:-1,VIP US: ABC St Louis
-http://client-proiptv.com:8080/faris/faris/22111
 #EXTINF:-1,VIP US: ABC Tampa Bay
 http://client-proiptv.com:8080/faris/faris/22110
-#EXTINF:-1,VIP US: ABC Washington
-http://client-proiptv.com:8080/faris/faris/22109
-#EXTINF:-1,VIP US: CBS Atlanta
-http://client-proiptv.com:8080/faris/faris/22108
-#EXTINF:-1,VIP US: CBS Baltimore
-http://client-proiptv.com:8080/faris/faris/22107
-#EXTINF:-1,VIP US: CBS Boston
-http://client-proiptv.com:8080/faris/faris/22106
-#EXTINF:-1,VIP US: CBS Charlotte
-http://client-proiptv.com:8080/faris/faris/22105
-#EXTINF:-1,VIP US: CBS Chicago
-http://client-proiptv.com:8080/faris/faris/22104
-#EXTINF:-1,VIP US: CBS Cleveland
-http://client-proiptv.com:8080/faris/faris/22103
-#EXTINF:-1,VIP US: CBS Columbus
-http://client-proiptv.com:8080/faris/faris/22102
-#EXTINF:-1,VIP US: CBS Dayton
-http://client-proiptv.com:8080/faris/faris/27868
-#EXTINF:-1,VIP US: CBS Dallas
-http://client-proiptv.com:8080/faris/faris/22101
-#EXTINF:-1,VIP US: CBS Denver
-http://client-proiptv.com:8080/faris/faris/22100
 #EXTINF:-1,VIP US: CBS Detroit
 http://client-proiptv.com:8080/faris/faris/22099
-#EXTINF:-1,VIP US: CBS Greensboro
-http://client-proiptv.com:8080/faris/faris/22098
-#EXTINF:-1,VIP US: CBS Hartford
-http://client-proiptv.com:8080/faris/faris/22097
-#EXTINF:-1,VIP US: CBS Houston
-http://client-proiptv.com:8080/faris/faris/22096
-#EXTINF:-1,VIP US: CBS Jacksonville
-http://client-proiptv.com:8080/faris/faris/22095
-#EXTINF:-1,VIP US: CBS Kansas City
-http://client-proiptv.com:8080/faris/faris/22094
-#EXTINF:-1,VIP US: CBS Los Angeles
-http://client-proiptv.com:8080/faris/faris/22093
 #EXTINF:-1,VIP US: CBS Miami
 http://client-proiptv.com:8080/faris/faris/22092
-#EXTINF:-1,VIP US: CBS Milwaukee
-http://client-proiptv.com:8080/faris/faris/22091
-#EXTINF:-1,VIP US: CBS Minneapolis
-http://client-proiptv.com:8080/faris/faris/22090
-#EXTINF:-1,VIP US: CBS Nashville
-http://client-proiptv.com:8080/faris/faris/22089
-#EXTINF:-1,VIP US: CBS New Orleans
-http://client-proiptv.com:8080/faris/faris/22088
-#EXTINF:-1,VIP US: CBS New York
-http://client-proiptv.com:8080/faris/faris/22087
 #EXTINF:-1,VIP US: CBS Orlando
 http://client-proiptv.com:8080/faris/faris/22086
-#EXTINF:-1,VIP US: CBS Philadelphia
-http://client-proiptv.com:8080/faris/faris/22085
-#EXTINF:-1,VIP US: CBS Phoenix
-http://client-proiptv.com:8080/faris/faris/22084
-#EXTINF:-1,VIP US: CBS Pittsburgh
-http://client-proiptv.com:8080/faris/faris/22083
-#EXTINF:-1,VIP US: CBS Sacramento
-http://client-proiptv.com:8080/faris/faris/22082
-#EXTINF:-1,VIP US: CBS San Antonio
-http://client-proiptv.com:8080/faris/faris/22081
-#EXTINF:-1,VIP US: CBS San Diego
-http://client-proiptv.com:8080/faris/faris/22080
-#EXTINF:-1,VIP US: CBS San Francisco
-http://client-proiptv.com:8080/faris/faris/22079
-#EXTINF:-1,VIP US: CBS Seattle
-http://client-proiptv.com:8080/faris/faris/22078
-#EXTINF:-1,VIP US: CBS St Louis
-http://client-proiptv.com:8080/faris/faris/22077
-#EXTINF:-1,VIP US: CBS Tampas
+#EXTINF:-1,VIP US: CBS Tampa
 http://client-proiptv.com:8080/faris/faris/22076
-#EXTINF:-1,VIP US: CBS Washington
-http://client-proiptv.com:8080/faris/faris/22075
-#EXTINF:-1,VIP US: FOX Atlanta
-http://client-proiptv.com:8080/faris/faris/22030
-#EXTINF:-1,VIP US: FOX Austin
-http://client-proiptv.com:8080/faris/faris/22029
-#EXTINF:-1,VIP US: FOX Baltimore
-http://client-proiptv.com:8080/faris/faris/22028
-#EXTINF:-1,VIP US: FOX Belmont
-http://client-proiptv.com:8080/faris/faris/22027
-#EXTINF:-1,VIP US: FOX Boston
-http://client-proiptv.com:8080/faris/faris/22026
-#EXTINF:-1,VIP US: FOX Buffalo
-http://client-proiptv.com:8080/faris/faris/22025
-#EXTINF:-1,VIP US: Fox Bussines Network
-http://client-proiptv.com:8080/faris/faris/22024
-#EXTINF:-1,VIP US: FOX Chicago
-http://client-proiptv.com:8080/faris/faris/22023
-#EXTINF:-1,VIP US: FOX Cleveland
-http://client-proiptv.com:8080/faris/faris/22022
-#EXTINF:-1,VIP US: Fox Collage Sports Atlantic
-http://client-proiptv.com:8080/faris/faris/22021
-#EXTINF:-1,VIP US: Fox Collage Sports Central
-http://client-proiptv.com:8080/faris/faris/22020
-#EXTINF:-1,VIP US: Fox Collage Sports Pacific
-http://client-proiptv.com:8080/faris/faris/22019
-#EXTINF:-1,VIP US: FOX Columbus
-http://client-proiptv.com:8080/faris/faris/22018
-#EXTINF:-1,VIP US: FOX Dallas
-http://client-proiptv.com:8080/faris/faris/22017
-#EXTINF:-1,VIP US: FOX Denver
-http://client-proiptv.com:8080/faris/faris/22016
-#EXTINF:-1,VIP US: FOX Deportes HD
-http://client-proiptv.com:8080/faris/faris/22015
 #EXTINF:-1,VIP US: FOX Detroit
 http://client-proiptv.com:8080/faris/faris/22014
-#EXTINF:-1,VIP US: FOX Green Bay
-http://client-proiptv.com:8080/faris/faris/22013
-#EXTINF:-1,VIP US: FOX Hartford
-http://client-proiptv.com:8080/faris/faris/22012
-#EXTINF:-1,VIP US: FOX Houston
-http://client-proiptv.com:8080/faris/faris/22011
-#EXTINF:-1,VIP US: FOX Indianapolis
-http://client-proiptv.com:8080/faris/faris/22010
-#EXTINF:-1,VIP US: FOX Jacksonville
-http://client-proiptv.com:8080/faris/faris/22009
-#EXTINF:-1,VIP US: FOX Kansas City
-http://client-proiptv.com:8080/faris/faris/22008
-#EXTINF:-1,VIP US: FOX Los Angeles
-http://client-proiptv.com:8080/faris/faris/22007
-#EXTINF:-1,VIP US: FOX Miami
-http://client-proiptv.com:8080/faris/faris/22006
-#EXTINF:-1,VIP US: FOX Milwaukee
-http://client-proiptv.com:8080/faris/faris/22005
-#EXTINF:-1,VIP US: FOX Minneapolis
-http://client-proiptv.com:8080/faris/faris/22004
-#EXTINF:-1,VIP US: FOX Nashville
-http://client-proiptv.com:8080/faris/faris/22003
-#EXTINF:-1,VIP US: FOX New Orleans
-http://client-proiptv.com:8080/faris/faris/22002
-#EXTINF:-1,VIP US: FOX New York
-http://client-proiptv.com:8080/faris/faris/22001
 #EXTINF:-1,VIP US: Fox News Channel
 http://client-proiptv.com:8080/faris/faris/22000
 #EXTINF:-1,VIP US: FOX Ocala
 http://client-proiptv.com:8080/faris/faris/21999
 #EXTINF:-1,VIP US: FOX Orlando
 http://client-proiptv.com:8080/faris/faris/21998
-#EXTINF:-1,VIP US: FOX Philadelphia
-http://client-proiptv.com:8080/faris/faris/21997
-#EXTINF:-1,VIP US: FOX Phoenix
-http://client-proiptv.com:8080/faris/faris/21996
-#EXTINF:-1,VIP US: FOX Pittsburgh
-http://client-proiptv.com:8080/faris/faris/21995
-#EXTINF:-1,VIP US: FOX Sacramento
-http://client-proiptv.com:8080/faris/faris/21994
-#EXTINF:-1,VIP US: FOX Salt Lake City
-http://client-proiptv.com:8080/faris/faris/21993
-#EXTINF:-1,VIP US: FOX San Antonio
-http://client-proiptv.com:8080/faris/faris/21992
-#EXTINF:-1,VIP US: FOX San Diego
-http://client-proiptv.com:8080/faris/faris/21991
-#EXTINF:-1,VIP US: FOX San Francisco
-http://client-proiptv.com:8080/faris/faris/21990
-#EXTINF:-1,VIP US: FOX Seattle
-http://client-proiptv.com:8080/faris/faris/21989
-#EXTINF:-1,VIP US: FOX St Louis
-http://client-proiptv.com:8080/faris/faris/21988
 #EXTINF:-1,VIP US: FOX Tampa
 http://client-proiptv.com:8080/faris/faris/21987
-#EXTINF:-1,VIP US: FOX Washington
-http://client-proiptv.com:8080/faris/faris/21986
-#EXTINF:-1,VIP US: NBC Atlanta
-http://client-proiptv.com:8080/faris/faris/22074
-#EXTINF:-1,VIP US: NBC Baltimore
-http://client-proiptv.com:8080/faris/faris/22073
-#EXTINF:-1,VIP US: NBC Boston
-http://client-proiptv.com:8080/faris/faris/22072
-#EXTINF:-1,VIP US: NBC Buffalo
-http://client-proiptv.com:8080/faris/faris/22071
-#EXTINF:-1,VIP US: NBC Charlotte
-http://client-proiptv.com:8080/faris/faris/22070
-#EXTINF:-1,VIP US: NBC Chicago
-http://client-proiptv.com:8080/faris/faris/22069
-#EXTINF:-1,VIP US: NBC Cincinnati
-http://client-proiptv.com:8080/faris/faris/22068
-#EXTINF:-1,VIP US: NBC Cleveland
-http://client-proiptv.com:8080/faris/faris/22067
-#EXTINF:-1,VIP US: NBC Dallas
-http://client-proiptv.com:8080/faris/faris/22066
-#EXTINF:-1,VIP US: NBC Denver
-http://client-proiptv.com:8080/faris/faris/22065
 #EXTINF:-1,VIP US: NBC Detroit
 http://client-proiptv.com:8080/faris/faris/22064
-#EXTINF:-1,VIP US: NBC Green Bay
-http://client-proiptv.com:8080/faris/faris/22063
-#EXTINF:-1,VIP US: NBC Hartford
-http://client-proiptv.com:8080/faris/faris/22062
-#EXTINF:-1,VIP US: NBC Houston
-http://client-proiptv.com:8080/faris/faris/22061
-#EXTINF:-1,VIP US: NBC Indianapolis
-http://client-proiptv.com:8080/faris/faris/22060
-#EXTINF:-1,VIP US: NBC Jacksonville
-http://client-proiptv.com:8080/faris/faris/22059
-#EXTINF:-1,VIP US: NBC Kansas City
-http://client-proiptv.com:8080/faris/faris/22058
-#EXTINF:-1,VIP US: NBC Los Angeles
-http://client-proiptv.com:8080/faris/faris/22057
-#EXTINF:-1,VIP US: NBC Miami
-http://client-proiptv.com:8080/faris/faris/22056
-#EXTINF:-1,VIP US: NBC Milwaukee
-http://client-proiptv.com:8080/faris/faris/22055
-#EXTINF:-1,VIP US: NBC Minneapolis
-http://client-proiptv.com:8080/faris/faris/22054
-#EXTINF:-1,VIP US: NBC Nashville
-http://client-proiptv.com:8080/faris/faris/22053
-#EXTINF:-1,VIP US: NBC New Orleans
-http://client-proiptv.com:8080/faris/faris/22052
-#EXTINF:-1,VIP US: NBC New York
-http://client-proiptv.com:8080/faris/faris/22051
-#EXTINF:-1,VIP US: NBC Orlando
-http://client-proiptv.com:8080/faris/faris/22050
-#EXTINF:-1,VIP US: NBC Philadelphia
-http://client-proiptv.com:8080/faris/faris/22049
-#EXTINF:-1,VIP US: NBC Phoenix
-http://client-proiptv.com:8080/faris/faris/22048
-#EXTINF:-1,VIP US: NBC Pittsburgh
-http://client-proiptv.com:8080/faris/faris/22047
-#EXTINF:-1,VIP US: NBC Portland
-http://client-proiptv.com:8080/faris/faris/22046
-#EXTINF:-1,VIP US: NBC Raleigh
-http://client-proiptv.com:8080/faris/faris/22045
-#EXTINF:-1,VIP US: NBC Sacramento
-http://client-proiptv.com:8080/faris/faris/22044
-#EXTINF:-1,VIP US: NBC Salt Lake City
-http://client-proiptv.com:8080/faris/faris/22043
-#EXTINF:-1,VIP US: NBC San Francisco
-http://client-proiptv.com:8080/faris/faris/22041
-#EXTINF:-1,VIP US: NBC San Diego
-http://client-proiptv.com:8080/faris/faris/22042
-#EXTINF:-1,VIP US: NBC Seattle
-http://client-proiptv.com:8080/faris/faris/22040
-#EXTINF:-1,VIP US: NBC Sports Bay Area
-http://client-proiptv.com:8080/faris/faris/22039
-#EXTINF:-1,VIP US: NBC St Louis
-http://client-proiptv.com:8080/faris/faris/22038
-#EXTINF:-1,VIP US: NBC Telemundo
-http://client-proiptv.com:8080/faris/faris/22037
-#EXTINF:-1,VIP US: NBC Washington
-http://client-proiptv.com:8080/faris/faris/22036
 #EXTINF:-1,VIP US: 7 WWSB FL Sarasota HD
 http://client-proiptv.com:8080/faris/faris/10719
 #EXTINF:-1,VIP US: A&E HD
 http://client-proiptv.com:8080/faris/faris/10699
-#EXTINF:-1,VIP US: ABC Action News
-http://client-proiptv.com:8080/faris/faris/10652
-#EXTINF:-1,VIP US: ABC FAMILY/SPARK
-http://client-proiptv.com:8080/faris/faris/10654
-#EXTINF:-1,VIP US: ABC HD
-http://client-proiptv.com:8080/faris/faris/10651
-#EXTINF:-1,VIP US: ABC News
-http://client-proiptv.com:8080/faris/faris/10653
 #EXTINF:-1,VIP US: Adult Swim
 http://client-proiptv.com:8080/faris/faris/10648
 #EXTINF:-1,VIP US: TVG 2 HD
